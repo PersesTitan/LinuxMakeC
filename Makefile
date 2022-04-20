@@ -1,10 +1,10 @@
 CC = gcc
 TARGET = class.exe
 OBJECT = student.o teacher.o main.o textbook.o
+CFLAGS = -g -c
 
 $(TARGET) : $(OBJECT)
-	$(CC) : $(OBJECT)
-		$(CC) -o $(TARGET) $(OBJECT)
+	$(CC) -o $(TARGET) $(OBJECT)
 
 student.o : student.c
 	gcc -c student.c
