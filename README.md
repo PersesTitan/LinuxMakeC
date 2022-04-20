@@ -1,7 +1,8 @@
 # LinuxMakeC
 
 
-</br> 리눅스 업데이트 - sudo apt-get update
+</br> 리눅스 업데이트 확인 - sudo apt-get update
+</br> 리눅스 업데이트 - 
 </br> vim 설치 - sudo apt-get install vim
 </br>
 
