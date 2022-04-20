@@ -5,8 +5,9 @@
 </br> vim 설치 - sudo apt-get install vim
 </br>
 
+</br> vim 세팅
 
----
+
 
 >set number " line 표시를 해줍니다. set ai " auto index</br>
 set si " smart index</br>
@@ -29,7 +30,7 @@ set nowrap " 자동 줄바꿈 하지 않음</br>
 set wmnu " tab 자동완성시 가능한 목록을 보여줌</br>
 syntax on " 문법 하이라이트 킴</br>
 
----
+
 </br>
 </br>
 </br>
